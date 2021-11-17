@@ -10,7 +10,7 @@
 
     </head>
     <body>
-        <h1>Setup Laravel Bootstrap Successfully<i class="fas fa-ad"></i></h1>
+        <h1>Setup Laravel Bootstrap Successfully.....<i class="fas fa-ad"></i></h1>
         <script src="{{ mix('js/app.js') }}"></script>
     </body>
 </html>
